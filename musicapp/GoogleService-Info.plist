@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDV8KdzLk6-g3FKd3Q0qO3kv_d9WxyzBcg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>49504676931</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mervenurnerkis.musicapp</string>
+	<key>PROJECT_ID</key>
+	<string>music-app-78168</string>
+	<key>STORAGE_BUCKET</key>
+	<string>music-app-78168.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:49504676931:ios:167548444430bdbef978f6</string>
+</dict>
+</plist>
